@@ -1,4 +1,4 @@
-# Day 1 - [05-06-2026]
+# Day 1 - [Day 1 - 05-06-2026]
 
 Today I completed Chapter 1 of "Linux Basics for Hackers".
 I learned essential Linux commands for navigating the filesystem, finding files, and managing processes.
