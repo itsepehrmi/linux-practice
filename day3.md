@@ -11,7 +11,7 @@ Today I learned basic networking commands on Linux. These are essential for reco
 
 ## Examples I ran:
 
-
+```bash
 # Show all network interfaces
 ifconfig
 
@@ -24,6 +24,7 @@ sudo dhclient -v eth0
 # Query DNS records for a domain
 dig google.com
 dig -x 8.8.8.8   # reverse lookup
+ ```
 
 Notes:
 
