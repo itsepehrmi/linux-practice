@@ -40,6 +40,7 @@ sed 's/apple/orange/g' fruits.txt
 
 # more / less (press q to quit)
 less fruits.txt
+```
 
 Notes:
 
