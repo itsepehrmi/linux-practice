@@ -3,6 +3,7 @@
 Today I completed Chapter 1 of "Linux Basics for Hackers".
 I learned essential Linux commands for navigating the filesystem, finding files, and managing processes.
 
+
 ## Commands I learned:
 
 ### Navigation & Directory
@@ -32,6 +33,7 @@ I learned essential Linux commands for navigating the filesystem, finding files,
 
 ## Examples I ran in my terminal:
 
+```bash
 pwd
 /home/user/linux-practice
 
@@ -40,6 +42,7 @@ touch myfile.txt
 cp myfile.txt /myfolder
 mv myfile.txt newfile.txt
 rm newfile.txt
+```
 
 Notes:
 
