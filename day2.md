@@ -1,4 +1,4 @@
-# Day 2 - [Day 2 - 07-06-2026]
+# Day 2 -  Linux Basics for Hackers (Chapter 2)
 
 Today I learned text filtering and viewing commands. These are essential for examining log files, configuration files, and output of other commands in penetration testing.
 
