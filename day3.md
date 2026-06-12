@@ -1,4 +1,4 @@
-# Day 3 - [day 3 - 10-06-2026]
+# Day 3 - Linux Basics for Hackers (Chapter 3)
 
 Today I learned basic networking commands on Linux. These are essential for reconnaissance and identifying network interfaces in penetration testing.
 
