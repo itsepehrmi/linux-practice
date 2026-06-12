@@ -1,4 +1,4 @@
-# Day 4 - [Day 4 - 11-06-2026]
+# Day 4 - Package Management (Chapter 4)
 
 ## Commands learned:
 
