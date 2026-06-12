@@ -1,4 +1,4 @@
-# Day 5 - [Day 5 - 12-06-2026]
+# Day 5 - Permissions & Ownership (Chapter 5)
 
 ## Commands learned:
 
