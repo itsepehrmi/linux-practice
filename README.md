@@ -14,3 +14,4 @@ Hi, I'm Sepehr. I'm learning Linux to become a penetration tester.
 - [Day 5 - 12-06-2026](day5.md)
 - [Day 6 - 12-06-2026](day6.md)
 - [Day 7 - 13-06-2026](day7.md)
+- [Day 8 - 14-06-2026](day8.md)
